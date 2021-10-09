@@ -34,3 +34,7 @@ configure your client (`%fsconfig`) to connect to computer that hosts the Hub.
 Make sure ports `9493` (tcp) and `16384` (udp) are accessible to the client.
 
 Alternatively, you can build the proxy yourself from [the sources](https://github.com/the-channels/channels/tree/master/hub).
+
+## Source code
+
+You can see the source code on [GitHub](https://github.com/the-channels/channels).
